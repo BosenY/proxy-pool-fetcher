@@ -1,0 +1,18 @@
+{
+  "name": "proxy-pool",
+  "version": "0.1.0",
+  "description": "proxy pool fetcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wacky6",
+  "license": "MIT",
+  "dependencies": {
+    "co": "^4.6.0",
+    "html-to-text": "^2.1.0",
+    "superagent": "^2.0.0",
+    "superagent-promise-plugin": "^3.2.0",
+    "superagent-proxy": "^1.0.0"
+  }
+}
